@@ -69,7 +69,8 @@ struct node* book(struct node* start)
 }
 struct node* display(struct node* start) 
 {
-   int l,i;
+   int l
+   int i; 
    printf("\n---------------TICKETS booked---------------\n"); 
    printf("TICKET NO.\t NAME \t AGE\n"); 
    ptr=start;
